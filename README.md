@@ -13,4 +13,14 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkmk66&theme=outrun&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmk66&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmk66&theme=outrun)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmk66)
+
+
+<a href="https://github.com/tkmk66/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tkmk66&theme=outrun&show_icons=true" />
+</a>
+<a href="https://github.com/tkmk66/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkmk66" />
+</a>
